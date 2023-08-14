@@ -1,4 +1,4 @@
-package com.cola.sample.domain.entity;
+package com.cola.sample.domain.order.entity;
 
 import java.util.List;
 

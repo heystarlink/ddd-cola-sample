@@ -1,6 +1,6 @@
-package com.cola.sample.domain.gateway;
+package com.cola.sample.domain.order.gateway;
 
-import com.cola.sample.domain.entity.OrderEntity;
+import com.cola.sample.domain.order.entity.OrderEntity;
 
 /**
  * @author : kenny

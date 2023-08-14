@@ -1,4 +1,4 @@
-package com.cola.sample.domain.resp;
+package com.cola.sample.domain.order.model.resp;
 
 /**
  * @author : kenny

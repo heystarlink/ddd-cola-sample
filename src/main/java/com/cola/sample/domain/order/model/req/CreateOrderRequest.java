@@ -1,4 +1,4 @@
-package com.cola.sample.domain.req;
+package com.cola.sample.domain.order.model.req;
 
 import api.model.dto.BillingDTO;
 import api.model.dto.CustomerDTO;

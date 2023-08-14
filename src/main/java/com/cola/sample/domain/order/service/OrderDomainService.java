@@ -1,12 +1,12 @@
-package com.cola.sample.domain.service;
+package com.cola.sample.domain.order.service;
 
 import api.model.dto.OrderMsgDTO;
-import com.cola.sample.domain.entity.OrderEntity;
-import com.cola.sample.domain.event.OrderEventSender;
-import com.cola.sample.domain.gateway.OrderGateway;
-import com.cola.sample.domain.helper.OrderNumberFactory;
-import com.cola.sample.domain.req.CreateOrderRequest;
-import com.cola.sample.domain.resp.CreateOrderResponse;
+import com.cola.sample.domain.order.entity.OrderEntity;
+import com.cola.sample.domain.order.event.OrderEventSender;
+import com.cola.sample.domain.order.gateway.OrderGateway;
+import com.cola.sample.domain.order.helper.OrderNumberFactory;
+import com.cola.sample.domain.order.model.req.CreateOrderRequest;
+import com.cola.sample.domain.order.model.resp.CreateOrderResponse;
 import com.cola.sample.infrastructure.event.BaseProducer;
 import com.cola.sample.infrastructure.gatewayimpl.OrderGatewayImpl;
 

@@ -1,4 +1,4 @@
-package com.cola.sample.domain.helper;
+package com.cola.sample.domain.order.helper;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

@@ -1,9 +1,9 @@
 package com.cola.sample.infrastructure.gatewayimpl;
 
-import com.cola.sample.domain.entity.OrderEntity;
-import com.cola.sample.domain.entity.OrderItem;
-import com.cola.sample.domain.entity.Product;
-import com.cola.sample.domain.gateway.OrderGateway;
+import com.cola.sample.domain.order.entity.OrderEntity;
+import com.cola.sample.domain.order.entity.OrderItem;
+import com.cola.sample.domain.order.entity.Product;
+import com.cola.sample.domain.order.gateway.OrderGateway;
 import com.cola.sample.infrastructure.mapper.OrderMapper;
 import com.cola.sample.infrastructure.mapper.ProductMapper;
 import com.cola.sample.infrastructure.model.OrderDO;

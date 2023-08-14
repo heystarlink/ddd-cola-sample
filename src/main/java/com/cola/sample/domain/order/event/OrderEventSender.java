@@ -1,4 +1,4 @@
-package com.cola.sample.domain.event;
+package com.cola.sample.domain.order.event;
 
 import api.model.dto.OrderMsgDTO;
 import com.cola.sample.infrastructure.event.BaseProducer;

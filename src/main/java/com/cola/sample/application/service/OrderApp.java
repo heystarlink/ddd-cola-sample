@@ -1,8 +1,8 @@
 package com.cola.sample.application.service;
 
 import api.model.param.OrderSaveParam;
-import com.cola.sample.domain.service.OrderDomainService;
-import com.cola.sample.domain.req.CreateOrderRequest;
+import com.cola.sample.domain.order.service.OrderDomainService;
+import com.cola.sample.domain.order.model.req.CreateOrderRequest;
 import com.cola.sample.infrastructure.annotation.spring.Transactional;
 
 /**
